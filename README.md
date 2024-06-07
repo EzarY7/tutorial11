@@ -5,9 +5,9 @@ Mochammad Ezar Yudha 2206046746
 
 <h3>Compare the application logs before and after you exposed it as a Service.</h3>
 
-Before Service
+<h2>Before Service</h2>
 <img src = "images/beforeservice.jpg">
-After Service
+<h2>After Service</h2>
 <img src = "images/afterservice.jpg">
 The log before it was exposed as a service shows that the HTTP server started on port 8080 and the UDP server started on port 8081. The log after it was exposed as a service shows the GET requests being made to the server.
 
